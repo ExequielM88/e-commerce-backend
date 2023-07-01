@@ -12,8 +12,8 @@ let cartId
 
 beforeAll(async()=>{
     const user = {
-        email: "daniela@gmail.com",
-        password: "danielal1234"
+        email: "exequiel@gmail.com",
+        password: "exequiel1234"
     }
 
     const res = await request(app)
